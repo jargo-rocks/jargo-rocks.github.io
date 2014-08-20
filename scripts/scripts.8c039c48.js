@@ -1,0 +1,1 @@
+"use strict";angular.module("jargoApp",[]),angular.module("jargoApp").controller("MainCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
